@@ -2,14 +2,14 @@
 所有已经完成的题目的demo，
 基础题：
 
-1） 请说明一个div距离屏幕左上角（100，100）偏移的N种方法（完成）
-   css方法：
+1）请说明一个div距离屏幕左上角（100，100）偏移的N种方法（完成）
+    css方法：
    1、position:absolute;绝对定位，top和left属性值各100；
    2、pososition:relative;相对定位，top和left属性值各100；
    3、margin-top和margin-left属性值各100；
    js动态设置：
 
-2） 请尝试生成一个20个1-100之间的随机数，随机数不能重复（完成）
+2）请尝试生成一个20个1-100之间的随机数，随机数不能重复（完成）
   上面random.js文件 https://github.com/songmouxia/allDemo/blob/master/random.js
 
 3） 尝试对一个随机字符串（数字和字母），将里面的偶数（0-9）求和（完成）
