@@ -11,6 +11,7 @@
     js动态设置：
 
 2）请尝试生成一个20个1-100之间的随机数，随机数不能重复（完成）
+  
   上面random.js文件 ：https://github.com/songmouxia/allDemo/blob/master/random.js
  
 3） 尝试对一个随机字符串（数字和字母），将里面的偶数（0-9）求和（完成）
