@@ -22,11 +22,11 @@
 
 1) 请基于纯CSS, jQuery实现一个Tab组件（完成）
      
-     代码地址：https://github.com/songmouxia/tabModule
+     代码地址https://github.com/songmouxia/tabModule
 
 2) 使用 express 4.x 的jade+stylus复制页面 https://m.jimu.com/aboutus（完成）
     
-    代码地址： https://github.com/songmouxia/Express-jade-stylus
+    代码地址https://github.com/songmouxia/Express-jade-stylus
 
 3) 使用 fis （http://fis.baidu.com/ <http://fis.baidu.com/>) ，jade , stylus复制页面 https://m.jimu.com/aboutus , 并将js/css以inline的方式写入页面（完成）
   
